@@ -1,4 +1,4 @@
-package 1.0;
+package test_package;
 
 import static org.junit.Assert.assertTrue;
 
